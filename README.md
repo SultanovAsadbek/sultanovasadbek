@@ -1,5 +1,5 @@
 
-![Header](https://github.com/SultanovAsadbek/sultanovasadbek/blob/main/assets/name.png)
+![Header](https://github.com/SultanovAsadbek/sultanovasadbek/blob/main/assets/animateName.gif)
 
 
 ## About Me
