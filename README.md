@@ -20,4 +20,4 @@ I ask you to actively support me on social networks and in GitHub
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/feed/)
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/sultanovvasadbek)
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/asadbeksultanovv?igshid=ZDdkNTZiNTM=)
-[![Gmail](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail)](sultanovvasadbek0707@gmail.com)
+[![Gmail](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail)](mailto:sultanovvasadbek0707@gmail.com)
