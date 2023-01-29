@@ -21,3 +21,7 @@ I ask you to actively support me on social networks and in GitHub
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/sultanovvasadbek)
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/asadbeksultanovv?igshid=ZDdkNTZiNTM=)
 [![Gmail](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail)](mailto:sultanovvasadbek0707@gmail.com)
+
+
+## My stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sultanovasadbek&hide=contribs,prs&show_icons=true&theme=dark)
