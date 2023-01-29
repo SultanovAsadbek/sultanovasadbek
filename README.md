@@ -1,4 +1,6 @@
+<div align="center">
 ![Header](https://github.com/SultanovAsadbek/sultanovasadbek/blob/main/assets/name.png)
+</div>
 
 ## About Me
 Hello.
