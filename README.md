@@ -1,11 +1,19 @@
 
-![Header](https://github.com/SultanovAsadbek/sultanovasadbek/blob/main/assets/name.png)
+
+![Header](https://github.com/SultanovAsadbek/sultanovasadbek/blob/main/assets/name.gif)
 
 
 ## About Me
 Hello.
 My name is Asadbek, I am 20 years old and I am a student at BSUIR University. I am a beginner python developer. I am currently developing a different console application. And at the same time, I am actively studying the Django framework.
 I ask you to actively support me on social networks and in GitHub
+
+## Education
+<b>Belarusian State University of Informatics and Radioelectronics</b>
+<br> <img src="https://github.com/SultanovAsadbek/sultanovasadbek/blob/main/assets/bsuir.png"/>
+
+<b>Tashkent University of Information Technology</b>
+<br> <img src="https://github.com/SultanovAsadbek/sultanovasadbek/blob/main/assets/tuit.png"/>
 
 ## My skills
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=yellow)
