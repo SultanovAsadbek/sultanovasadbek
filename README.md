@@ -15,6 +15,9 @@ I ask you to actively support me on social networks and in GitHub
 <b>Tashkent University of Information Technology</b>
 <br> <img src="https://github.com/SultanovAsadbek/sultanovasadbek/blob/main/assets/tuit.png"/>
 
+## Certificate & Completed course
+<br> <img src="https://github.com/SultanovAsadbek/sultanovasadbek/blob/main/assets/certificate.jpg"/>
+
 ## My skills
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=yellow)
 ![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=orange)
