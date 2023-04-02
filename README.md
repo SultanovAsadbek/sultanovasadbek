@@ -3,23 +3,26 @@
 ![Header](https://github.com/SultanovAsadbek/sultanovasadbek/blob/main/assets/name.gif)
 
 
-## About Me
-Hello.
-My name is Asadbek, I am 20 years old and I am a student at BSUIR University. I am a beginner python developer. I am currently developing a different console application. And at the same time, I am actively studying the Django framework.
-I ask you to actively support me on social networks and in GitHub
+## Обо мне
+Питон-разработчик в процессе! 
+<br> Я Султанов Асадбек в настоящее время студент ТУИТ-БГУИР и резидент IT Park. 
+Сертифицирован Институтом IBA после прохождения курса Python. 
+Стремление создавать интуитивно понятные, полезные приложения и веб-сайты. 
+Увлечен изучением ядра Python, PyQT5, Django и SQLite3. 
+<br> Готов принимать новые вызовы и учиться каждый день!
 
-## Education
-<b>Belarusian State University of Informatics and Radioelectronics</b>
+## Образование
+<b>Белорусский Государственный Университет Информатики и Радиоэлектроники</b>
 <br> <img src="https://github.com/SultanovAsadbek/sultanovasadbek/blob/main/assets/bsuir.png"/>
 
-<b>Tashkent University of Information Technology</b>
+<b>Ташкентский Университет Информационных Технологий</b>
 <br> <img src="https://github.com/SultanovAsadbek/sultanovasadbek/blob/main/assets/tuit.png"/>
 
-## Certificate & Completed course
+## Сертификаты & Пройденные курсы
 <br> <img src="https://github.com/SultanovAsadbek/sultanovasadbek/blob/main/assets/certificate.jpg"/>
 <img src="https://github.com/SultanovAsadbek/sultanovasadbek/blob/main/assets/sololearn.jpg"/>
 
-## My skills
+## Мои навыки
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=yellow)
 ![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=orange)
 ![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue)
@@ -28,12 +31,12 @@ I ask you to actively support me on social networks and in GitHub
 ![Tkinter](https://img.shields.io/badge/Tkinter-black?style=for-the-badge&logo=)
 
 
-## Contact
+## Контакты
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/feed/)
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/sultanovvasadbek)
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/asadbeksultanovv?igshid=ZDdkNTZiNTM=)
 [![Gmail](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail)](mailto:sultanovvasadbek0707@gmail.com)
 
 
-## My stats
+## Моя статистика
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sultanovasadbek&hide=contribs,prs&show_icons=true&theme=dark)
