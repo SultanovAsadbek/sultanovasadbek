@@ -24,12 +24,13 @@
 
 ## Мои навыки
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=yellow)
-![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=orange)
-![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue)
-![Sqlite](https://img.shields.io/badge/sqlite3-black?style=for-the-badge&logo=sqlite&logoColor=blue)
 ![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=green)
 ![Tkinter](https://img.shields.io/badge/Tkinter-black?style=for-the-badge&logo=Vectorworks)
 ![PyQt5](https://img.shields.io/badge/PyQt5-black?style=for-the-badge&logo=Vectorworks)
+
+![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=orange)
+![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue)
+![Sqlite](https://img.shields.io/badge/sqlite3-black?style=for-the-badge&logo=sqlite&logoColor=blue)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub)
 
